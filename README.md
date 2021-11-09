@@ -1,2 +1,2 @@
-# the_odin_project
-Odin Project Repo
+# Odin_recipes
+Odin Project Recipes
